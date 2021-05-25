@@ -641,7 +641,7 @@ header .container {
 }
 
 .agreement-checkbox:checked + .agreement-label::before {
-  background-image: url(../icons/galka.svg);
+  background-image: url("../icons/galka.svg");
   background-repeat: no-repeat;
   background-position: center;
   background-size: contain;
